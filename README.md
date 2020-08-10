@@ -28,7 +28,7 @@ This fork of original [matheuss/google-translate-api](https://github.com/matheus
 ## Install 
 
 ```
-npm install @vitalets/google-translate-api
+npm install @Jajabenit250/google-translate-api
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ npm install @vitalets/google-translate-api
 From automatic language detection to English:
 
 ```js
-const translate = require('@vitalets/google-translate-api');
+const translate = require('@Jajabenit250/google-translate-api');
 
 translate('Ik spreek Engels', {to: 'en'}).then(res => {
     console.log(res.text);

@@ -79,7 +79,6 @@ var langs = {
     'my': 'Myanmar (Burmese)',
     'ne': 'Nepali',
     'no': 'Norwegian',
-    'ny': 'Nyanja (Chichewa)',
     'or': 'Odia (Oriya)',
     'ps': 'Pashto',
     'fa': 'Persian',

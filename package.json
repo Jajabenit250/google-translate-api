@@ -1,5 +1,5 @@
 {
-  "name": "google-translate-api-2020",
+  "name": "google-translate-api",
   "version": "1.0.0",
   "description": "A free and unlimited API for Google Translate",
   "main": "index.js",
@@ -37,9 +37,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Jajabenit250/google-translate-api-2020/issues"
+    "url": "https://github.com/Jajabenit250/google-translate-api/issues"
   },
-  "homepage": "https://github.com/Jajabenit250/google-translate-api-2020#readme",
+  "homepage": "https://github.com/Jajabenit250/google-translate-api#readme",
   "dependencies": {
     "@vitalets/google-translate-token": "^1.1.0",
     "configstore": "^2.0.0",
